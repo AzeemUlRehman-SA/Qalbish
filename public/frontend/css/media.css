@@ -1,0 +1,1816 @@
+@charset "utf-8";
+@media screen and (max-width: 1600px) {
+    .banner {
+        background-position-x: 50%;
+        padding: 200px 0 300px 0;
+    }
+
+    .customLogo {
+        left: 44%;
+    }
+
+    .about p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 22px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 90px;*/
+    /*}*/
+
+    .blogText p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .blogText h4 {
+        font-size: 28px;
+    }
+
+    .blogText a {
+        font-size: 15px;
+    }
+
+    .testimonialMain p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .ctaDet h3 {
+        font-size: 60px;
+    }
+
+    .ctaDet h5 {
+        font-size: 20px;
+    }
+
+    .banner h1 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+    .customLogo {
+        left: 42%;
+    }
+
+    .banner h1 {
+        font-size: 55px;
+    }
+
+    .banner h5 {
+        font-size: 25px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 65px;*/
+        /*padding: 15px 0;*/
+    /*}*/
+
+    /*.serviceBox:hover .serviceBoxDet h3 {*/
+        /*margin-top: 50px;*/
+    /*}*/
+
+    .banner {
+        padding: 190px 0;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 19px;
+    }
+
+    .ctaDet h3 {
+        font-size: 50px;
+    }
+
+    .quickLinks h3 {
+        font-size: 30px;
+    }
+
+    .footerLastAreaImages img {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .topbarLeft ul li a {
+        font-size: 14px;
+    }
+
+    .customLogo {
+        left: 41%;
+    }
+
+    .footerLastArea .col-md-4 img {
+        width: 100%;
+    }
+
+    .ctaDet {
+        padding: 80px 0;
+    }
+
+    .quickLinks ul li a {
+        font-size: 18px;
+    }
+
+    .blogText h4 {
+        font-size: 25px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 183px;
+    }
+
+    .packageThumbnail h5 {
+        width: 106%;
+    }
+
+    .aboutCenter .imageHolder {
+        height: 175px;
+    }
+
+    /*.serviceCarousel a {*/
+    /*    font-size: 12px;*/
+    /*}*/
+}
+
+@media screen and (max-width: 1150px) {
+    .banner h1 {
+        font-size: 45px;
+    }
+
+    .banner {
+        padding: 140px 0;
+    }
+
+    .banner h5 {
+        font-size: 22px;
+    }
+
+    .sectionHeading {
+        font-size: 40px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 26px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 50px;*/
+    /*}*/
+
+    /*.serviceBox:hover .serviceBoxDet h3 {*/
+        /*margin-top: 40px;*/
+    /*}*/
+
+    .serviceBox:hover a {
+        width: 60%;
+    }
+
+    .blogText h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .blogImage::after {
+        height: 420px;
+        right: 20px;
+    }
+
+    .blogImage img {
+        margin-top: 39px;
+    }
+
+    .blog .buttonMain {
+        margin-top: 60px;
+    }
+
+    .testimonialMain {
+        padding: 30px 0 120px;
+    }
+
+    .testimonialInner {
+        border: #ff6c2b solid 4px;
+        height: 355px;
+        padding: 40px 50px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 190px;
+    }
+
+    .owl-prev {
+        margin-left: 0;
+        /*margin-left: -30px;*/
+        margin-top: -320px;
+        /*margin-top: -370px;*/
+    }
+
+    .owl-next {
+        margin-right: 0;
+        /*margin-right: -30px;*/
+        margin-top: -320px;
+        /*margin-top: -370px;*/
+    }
+
+    .testimonialMain h3 {
+        font-size: 29px;
+    }
+
+    .ctaDet {
+        padding: 65px 0;
+    }
+
+    .ctaDet h3 {
+        font-size: 60px;
+    }
+
+    .ctaDet h5 {
+        font-size: 22px;
+    }
+
+    .ctaDet img {
+        width: 35%;
+    }
+
+    .footerLastArea img {
+        width: 100%;
+    }
+
+    .footerLastArea a img {
+        width: 60%;
+    }
+
+    .quickLinks ul li a {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .quickLinks h3 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+
+    footer ul li a {
+        font-size: 16px;
+    }
+
+    footer {
+        padding: 60px 0;
+    }
+
+    .blogPost h3 {
+        font-size: 20px;
+        line-height: 26px;
+        margin-top: 10px;
+    }
+
+    .serviceBoxData {
+        padding: 10px 20px;
+    }
+
+    .blogBoxMain {
+        margin-bottom: 30px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 12px;
+        /*font-size: 18px;*/
+    }
+
+    .membershipInner p {
+        width: 40%;
+    }
+
+    .serviceCarousel .owl-prev {
+        left: 0;
+    }
+
+    .serviceCarousel .owl-next {
+        right: 0;
+    }
+
+    #testimonails .owl-prev {
+        margin-left: -30px;
+    }
+
+    #testimonails .owl-next {
+        margin-right: -30px;
+    }
+
+    .serviceCarousel a {
+        font-size: 13px;
+    }
+    .serviceDetBtn .buttonMain {
+        padding: 10px 17px;
+    }
+}
+
+@media screen and (max-width: 1005px) {
+    .container {
+        width: 90%;
+    }
+
+    .banner {
+        padding: 100px 0 150px 0;
+    }
+
+    .banner h1 {
+        font-size: 45px;
+    }
+
+    .banner h5 {
+        font-size: 17px;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    .sectionHeading {
+        margin-top: 0;
+    }
+
+    .about a {
+        margin-top: 20px;
+    }
+
+    /*.serviceBoxDet h3 {*/
+        /*font-size: 22px;*/
+    /*}*/
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 50px;*/
+        /*padding: 10px 0;*/
+
+    /*}*/
+
+    .blogImage::after {
+        height: 380px;
+    }
+
+    .blogText h4 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    /*
+        .blogText p {
+        font-size: 20px;
+        line-height: 36px;
+    }
+    */
+    .blogText p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .blogText a {
+        font-size: 15px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 165px;
+    }
+
+    .ctaDet h3 {
+        font-size: 40px;
+    }
+
+    .ctaDet h5 {
+        font-size: 20px;
+        margin: 15px 0;
+    }
+
+    .footerLastAreaImages h4 {
+        font-size: 15px;
+    }
+
+    .testimonialInner {
+        height: 345px;
+    }
+
+    .serviceInner p {
+        margin-top: 20px;
+        font-size: 17px;
+        line-height: 29px;
+    }
+
+    .panel-title > a, .panel-title > a:active {
+        font-size: 14px;
+    }
+
+    .serviceInner p {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .serviceBoxHeader h4 {
+        font-size: 19px;
+    }
+
+    .serviceBoxData ul li a {
+        font-size: 16px;
+    }
+
+    .recentBlogPost h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .recentBlogImg img {
+        width: 180%;
+    }
+
+    .recentBlogPost h6 {
+        font-size: 10px;
+    }
+
+    .contactLeft h5 {
+        width: 95%;
+    }
+
+    .contactLeft address span {
+        width: 90%;
+    }
+
+    .navbar-brand > img {
+        width: 80%;
+    }
+
+    .customLogo {
+        left: 42%;
+        top: -120px;
+    }
+
+    .topbar {
+        padding: 60px 0 30px;
+    }
+
+    .testimonialMain {
+        padding: 30px 0 70px;
+    }
+
+    .packageThumbnail h5 {
+        width: 107%;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 44%;
+    }
+
+    .aboutCenter h3 {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .navbar-default .navbar-nav > li > a {
+        font-size: 14px;
+    }
+
+    .navbar-brand > img {
+        width: 80%;
+    }
+
+    .customLogo {
+        top: -120px;
+    }
+
+    .topbarLeft ul li a {
+        font-size: 12px;
+    }
+
+    .banner h1 {
+        font-size: 38px;
+    }
+
+    .banner h5 {
+        font-size: 14px;
+    }
+
+    .sectionHeading {
+        font-size: 32px;
+    }
+
+    .about p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .nav-tabs > li > a {
+        padding: 5px 35px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 18px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 40px;*/
+    /*}*/
+
+    .serviceBox:hover a {
+        width: 80%;
+    }
+
+    .blogImage::after {
+        height: 340px;
+    }
+
+    .blogText h4 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+
+    .blogText h6 {
+        color: #0f0f0f;
+        font-size: 12px;
+    }
+
+    .blogText p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .blog .buttonMain {
+        margin-top: 40px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 144px;
+    }
+
+    .testimonialMain h3 {
+        font-size: 26px;
+    }
+
+    .panel-title > a, .panel-title > a:active {
+        font-size: 12px;
+    }
+
+    .serviceBoxHeader {
+        padding: 10px 5px;
+    }
+
+    .panel-title > a, .panel-title > a:active {
+        padding: 25px 0px;
+    }
+
+    .panel-body {
+        padding: 25px 20px;
+    }
+
+    .blogPost h6 {
+        font-size: 12px;
+    }
+
+    .blogPost h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .buttonMain {
+        font-size: 14px;
+    }
+
+    .serviceBoxMain .serviceBoxHeader {
+        padding: 10px 12px;
+    }
+
+    .serviceBoxData ul li a {
+        font-size: 14px;
+    }
+
+    .contactLeft h4 {
+        font-size: 29px;
+    }
+
+    .contactLeft h5 {
+        width: 100%;
+    }
+
+    .contactLeft address {
+        font-size: 17px;
+        line-height: 15px;
+    }
+
+    .contactLeft address span {
+        width: 100%;
+        line-height: 20px;
+    }
+
+    .bannerFields label {
+        font-size: 16px;
+    }
+
+    .banner {
+        padding: 100px 0 130px 0;
+    }
+
+    .sectionHeading::before {
+        width: 16px;
+        height: 29px;
+        left: -5px;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 50%;
+    }
+
+    .membershipInner p {
+        width: 50%;
+    }
+
+    .membershipInner h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .membershipInner .sectionHeading {
+        margin-bottom: 20px;
+    }
+
+    .membershipBox {
+        padding: 40px 10px;
+    }
+
+    .packageThumbnail h5 {
+        width: 110%;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .list-inline > li {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .topbar {
+        background: #fbecdb;
+        padding: 80px 0 15px;
+    }
+
+    .blogImage::after {
+        height: 300px;
+        right: 10px;
+        width: 85%;
+    }
+
+    .blogText p {
+        font-size: 13px;
+        line-height: 23px;
+        margin: 0;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 127px;
+    }
+
+    .navbar-brand > img {
+        width: 70%;
+    }
+
+    .customLogo {
+        top: -100px;
+    }
+
+    .topbar {
+        background: #fbecdb;
+        padding: 60px 0 15px;
+    }
+
+    .serviceBox:hover a {
+        width: 70%;
+        font-size: 12px;
+    }
+
+    .testimonialInner {
+        height: 345px;
+        /*height: 325px;*/
+    }
+
+    .testimonialMain p span {
+        font-size: 20px;
+    }
+
+    .ctaDet {
+        padding: 35px 0;
+    }
+
+    .footerLastArea h3, .quickLinks h3 {
+        font-size: 26px;
+    }
+
+    .footerLastArea a img {
+        width: 100%;
+    }
+
+    .blogPost h6 {
+        font-size: 10px;
+    }
+
+    .blogPost h3 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .serviceInner p {
+        margin-top: 10px;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .serviceBoxHeader h4 {
+        font-size: 16px;
+    }
+
+    .contactLeft h4 {
+        font-size: 26px;
+    }
+
+    .contactLeft h5 {
+        font-size: 14px;
+    }
+
+    .contactLeft address span {
+        font-size: 14px;
+    }
+
+    .bannerFields label {
+        font-size: 14px;
+    }
+
+    .banner {
+        padding: 95px 0;
+    }
+
+    .banner h1 {
+        font-size: 33px;
+    }
+
+    .packageThumbnail h5 {
+        width: 111%;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 56%;
+    }
+
+    .modal {
+        padding: auto;
+    }
+
+    .modal-dialog {
+        width: 97%;
+    }
+
+    .membershipBox h4 {
+        font-size: 16px;
+    }
+
+    .servicePackageBtn a {
+        font-size: 12px;
+        padding: 6px 0;
+    }
+
+    .selectedServices {
+        padding: 15px 10px;
+    }
+
+    .selectedServices h4 {
+        font-size: 13px;
+    }
+
+    .addOnDiv {
+        padding: 10px 3px;
+    }
+
+    .testimonialMain {
+        padding: 30px 0 100px;
+    }
+
+    .serviceBox img {
+        height: 150px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 12px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 50px;*/
+    /*}*/
+    .navbar-default .navbar-nav > li {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        font-size: 12px;
+    }
+    .selectedServicesRight .serviceDetBtn .buttonMain {
+        padding: 10px 6px;
+        width: 100%;
+        font-size: 12px;
+    }
+    #testimonails .owl-next, #testimonails .owl-prev
+    {
+        margin-top: -290px;
+    }
+
+    .selectedServicesRight .serviceDetBtn .buttonMain {
+        margin: 5px 0!important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .topbar .buttonMain {
+        margin-left: 0;
+    }
+
+    .banner {
+        padding: 70px 0;
+    }
+
+    .navbar-default .navbar-nav > li:first-child {
+        padding-left: 0;
+        padding: 0;
+    }
+
+    .responsiveLogo {
+        text-align: center;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .responsiveLogo img {
+        width: 20%;
+    }
+
+    .customLogo {
+        position: inherit;
+    }
+
+    .navbar-brand {
+        display: none;
+    }
+
+    .topbar {
+        padding: 15px 0 15px;
+    }
+
+    .navbar {
+        height: auto;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .list-inline > li {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .topbarLeft ul li a {
+        font-size: 14px;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+    }
+
+    .banner {
+        padding: 70px 0 100px 0;
+    }
+
+    .sectionHeading {
+        font-size: 28px;
+    }
+
+    .about a {
+        margin-top: 10px;
+    }
+
+    .buttonMain {
+        font-size: 14px;
+    }
+
+    .serviceBox {
+        margin-bottom: 20px;
+    }
+
+    .mrgnDiv {
+        margin-top: 10px;
+    }
+
+    .serviceBoxDet h3 {
+        font-size: 22px;
+    }
+
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 70px;*/
+    /*}*/
+
+    /*.serviceBox:hover .serviceBoxDet h3 {*/
+        /*margin-top: 70px;*/
+    /*}*/
+
+    .serviceBox:hover a {
+        font-size: 15px;
+    }
+
+    .blogImage::after {
+        height: 300px;
+        width: 45%;
+        left: -190px;
+        top: 16px;
+    }
+
+    .blogText h4 {
+        font-size: 22px;
+        line-height: 29px;
+        margin-top: 20px;
+    }
+
+    .blogImage img {
+        width: 50%;
+    }
+
+    .testimonialMain h3 {
+        font-size: 22px;
+    }
+
+    .testimonialInner {
+        height: 355px;
+        padding: 30px 40px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 145px;
+        width: 31%;
+    }
+
+    .handImg {
+        display: none;
+    }
+
+    .ctaDet {
+        padding: 0;
+    }
+
+    .cta {
+        padding: 40px 0;
+    }
+
+    .ctaDet h3 {
+        margin: 0;
+    }
+
+    .ctaDet img {
+        width: 20%;
+    }
+
+    .quickLinks ul li a {
+        font-size: 18px;
+        line-height: 34px;
+    }
+
+    .footerLastArea a img {
+        width: 60%;
+    }
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border-color: transparent;
+        position: absolute;
+        left: 0;
+        right: 0;
+        padding: 0 30px;
+        text-align: center;
+        background: #ff6c2b;
+        z-index: 1;
+    }
+
+    .navbar-toggle {
+        border: 0 !important;
+        border-color: transparent !important;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+        /*background-color: #a2451c;*/
+        background-color: transparent;
+    }
+
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        font-size: 14px;
+        width: 25%;
+        margin: 0 auto;
+    }
+
+    .serviceBoxHeader h4 {
+        font-size: 20px;
+        margin: 0;
+        padding: 5px 0;
+    }
+
+    .panel-title > a, .panel-title > a:active {
+        padding: 15px 0px;
+        line-height: 20px;
+    }
+
+    .panel-body {
+        padding: 15px 20px;
+    }
+
+    .blogPost img {
+        width: 100%;
+    }
+
+    .blogPost h6 {
+        font-size: 12px;
+    }
+
+    .blogPost h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .serviceInner p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .noPaddSm {
+        padding: 0;
+    }
+
+    .recentBlogImg img {
+        width: 100%;
+    }
+
+    .recentBlogPost h3 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .recentBlogPost h6 {
+        font-size: 12px;
+    }
+
+    .footerLastArea img {
+        width: 10%;
+    }
+
+    .footerLastArea a img {
+        width: 48%;
+    }
+
+    .packageThumbnail h5 {
+        width: 104%;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 67%;
+    }
+
+    .modalLeft .imageHolder {
+        width: 36%;
+    }
+
+    .modalRight {
+        text-align: center;
+    }
+
+    .modalRight {
+        margin-top: 0;
+    }
+
+    .modal-body {
+        padding-bottom: 40px;
+    }
+
+    .membershipInner p {
+        width: 60%;
+    }
+
+    .membershipInner h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .membershipBox {
+        width: 50%;
+        margin: 20px auto;
+    }
+
+    .serviceAppendSubDiv {
+        padding: 10px 0px;
+    }
+
+    .coupon button {
+        font-size: 16px;
+    }
+    .serviceBox img {
+        height: 180px;
+    }
+    .m-stack__item m-topbar__nav-wrapper
+    {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .responsiveLogo img {
+        width: 30%;
+    }
+
+    .banner {
+        padding: 80px 0;
+    }
+
+    .topbarLeft {
+        width: 100%;
+        text-align: center;
+    }
+
+    .topbarRight {
+        width: 100%;
+        text-align: center;
+    }
+
+    .responsiveLogo {
+        margin-bottom: 10px;
+    }
+
+    .sectionHeading::before {
+        width: 21px;
+        height: 29px;
+    }
+
+    .blogImage img {
+        width: 70%;
+    }
+
+    .blogImage::after {
+        height: 350px;
+        width: 65%;
+        left: -60px;
+        top: 16px;
+    }
+
+    .blogText a {
+        font-size: 12px;
+    }
+
+    .testimonialMain {
+        padding: 0px 0 120px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 143px;
+        width: 38%;
+    }
+
+    .footerLastArea h3, .quickLinks h3 {
+        font-size: 20px;
+    }
+
+    .quickLinks ul li a {
+        font-size: 15px;
+    }
+
+    .copyright {
+        padding: 15px 0;
+    }
+
+    .copyright p {
+        font-size: 14px;
+    }
+
+    .serviceInner h3 {
+        font-size: 22px;
+    }
+
+    .serviceInner p {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group {
+        font-size: 12px;
+    }
+
+    .serviceInner h3 {
+        font-size: 16px;
+    }
+
+    .footerLastArea img {
+        width: 15%;
+    }
+
+    .footerLastArea a img {
+        width: 30%;
+    }
+
+    .footerLastArea {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 38%;
+    }
+
+    .modalLeft .imageHolder {
+        width: 43%;
+    }
+
+    .packageThumbnail h5 {
+        width: 105%;
+    }
+
+    .thankYouModal {
+        width: 95% !important;
+    }
+    .serviceBoxDet h3 {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .banner h1 {
+        font-size: 26px;
+    }
+
+    /*.serviceBox:hover .serviceBoxDet h3 {*/
+        /*margin-top: 40px;*/
+    /*}*/
+
+    .blogImage img {
+        width: 90%;
+    }
+
+    .blogImage::after {
+        width: 85%;
+        left: 30px;
+    }
+
+    .blogText h4 {
+        font-size: 20px;
+        line-height: 27px;
+        margin-top: 10px;
+    }
+
+    .blogText p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 110px;
+        width: 34%;
+        bottom: -15px;
+    }
+
+    .testimonialMain {
+        padding: 0px 0 50px;
+    }
+
+    .testimonialInner {
+        height: 325px;
+        padding: 30px 20px;
+    }
+
+    .navbar-nav {
+        margin: 0;
+    }
+
+    .bannerFields label {
+        font-size: 15px;
+    }
+
+    /*.serviceInner h3 {*/
+        /*font-size: 13px;*/
+        /*line-height: 16px;*/
+    /*}*/
+    .serviceInner p {
+        margin-top: 10px;
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .recentBlogPost h6 {
+        font-size: 10px;
+    }
+
+    .testimonialMain p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .forgotArea {
+        font-size: 14px;
+    }
+
+    .packageThumbnail h5 {
+        width: 106%;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 47%;
+    }
+
+    .modalLeft .imageHolder {
+        width: 53%;
+    }
+
+    .modal-body h4 {
+        line-height: 26px;
+        width: 100%;
+    }
+
+    .membershipBox {
+        width: 70%;
+        margin: 20px auto;
+    }
+
+    .membershipInner p {
+        width: 100%;
+    }
+
+    .addOnDiv {
+        padding: 10px 10px;
+    }
+
+    /*.servicePackageBtn a {*/
+        /*font-size: 12px;*/
+        /*padding: 6px 0;*/
+        /*width: 60%;*/
+        /*margin: 0 auto;*/
+        /*display: block;*/
+        /*margin-top: 10px;*/
+    /*}*/
+
+    .serviceCarousel .owl-prev {
+        left: 10px;
+    }
+    .serviceBoxDet h3 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .serviceCarousel a {
+        font-size: 13px;
+        line-height: 8px;
+    }
+    .serviceCarousel .owl-prev {
+        left: -19px;
+    }
+    .serviceCarousel .owl-next {
+        right: -19px;
+    }
+    .serviceCarousel .owl-next, .serviceCarousel .owl-prev {
+        margin-top: -30px;
+    }
+    .sectionHeading::before {
+        width: 16px;
+        height: 19px;
+    }
+    /*.serviceBox .serviceBoxDet {*/
+        /*height: 50px;*/
+    /*}*/
+    .serviceDetBtn button {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .banner h1 {
+        font-size: 22px;
+    }
+
+    .banner h5 {
+        font-size: 12px;
+    }
+
+    .banner .buttonMain {
+        margin-top: 10px;
+    }
+
+    .buttonMain {
+        font-size: 12px;
+    }
+
+    /*.sectionHeading {*/
+        /*font-size: 24px;*/
+    /*}*/
+
+    .service .col-xs-6 {
+        width: 100%;
+    }
+
+    /*.serviceBox:hover .serviceBoxDet h3 {*/
+        /*margin-top: 80px;*/
+    /*}*/
+
+    .blogImage img {
+        width: 95%;
+    }
+
+    .blogImage::after {
+        width: 90%;
+        height: 305px;
+    }
+
+    .testimonialInner {
+        height: 360px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 88px;
+    }
+
+    .footerLastArea {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    footer ul li a {
+        font-size: 13px;
+    }
+
+    .ctaDet img {
+        width: 40%;
+    }
+
+    .priceRight {
+        padding-right: 30px;
+    }
+    /*.panel-title > a, .panel-title > a:active {*/
+        /*font-size: 13px;*/
+    /*}*/
+
+    .panel-heading a:before {
+        right: 10px;
+    }
+
+    /*.serviceInner h3 {*/
+        /*font-size: 19px;*/
+    /*}*/
+
+    .serviceInner p {
+        line-height: 20px;
+    }
+
+    .serviceBoxHeader h4 {
+        font-size: 15px;
+    }
+
+    /*.serviceInner h3 {*/
+        /*font-size: 19px;*/
+        /*line-height: 26px;*/
+    /*}*/
+
+    .serviceBoxHeader h4 {
+        font-size: 16px;
+    }
+
+    /*.serviceInner h3 {*/
+    /*    font-size: 14px;*/
+    /*    line-height: 18px;*/
+    /*}*/
+    .panel-title > a, .panel-title > a:active {
+        font-size: 13px;
+    }
+
+    .serviceInner p {
+        font-size: 13px;
+    }
+
+    .serviceData .serviceDetBtn {
+        margin-top: 0;
+    }
+
+    .recentBlogImg img {
+        width: 150%;
+    }
+
+    .contactLeft h4 {
+        font-size: 20px;
+    }
+
+    .contactLeft address {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    .ctaDet h3 {
+        font-size: 30px;
+    }
+
+    .ctaDet h5 {
+        font-size: 15px;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 57%;
+    }
+
+    .modalLeft .imageHolder {
+        width: 64%;
+    }
+
+    .modal-body h4 {
+        line-height: 26px;
+        width: 100%;
+        font-size: 16px;
+        margin: 5px 0;
+    }
+
+    .membershipBox {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .list-inline > li {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .packageThumbnail h5 {
+        width: 107%;
+    }
+    .serviceBox img {
+        height: 200px;
+    }
+    .serviceBoxDet h3 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .count-font-size {
+        font-size: 13px !important;
+    }
+    .footerLastArea a img {
+        width: 57%;
+    }
+    footer ul li a i {
+        font-size: 16px;
+    }
+.serviceInner .panel-body h5
+{
+    text-align: left;
+}
+    .navbar-default .navbar-nav > li > a {
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .aboutCenter .imageHolder {
+        width: 51%;
+    }
+    .testimonialMain .imageHolder {
+        height: 104px;
+    }
+
+}
+@media screen and (max-width: 414px) {
+    .testimonialMain .imageHolder {
+        height: 100px !important;
+        /*height: 88px;*/
+    }
+
+    .testimonialInner {
+        height: 345px;
+    }
+    #testimonails .owl-next, #testimonails .owl-prev {
+        margin-top: -250px;
+    }
+    .sectionHeading::before {
+        width: 11px;
+        height: 15px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .testimonialInner {
+        height: 385px;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 88px !important;
+    }
+    /*.owl-next,.owl-prev*/
+    /*{*/
+        /*margin-top: -270px;*/
+    /*}*/
+    .aboutCenter .imageHolder {
+        width: 57%;
+    }
+
+    #testimonails .owl-next, #testimonails .owl-prev {
+        margin-top: -260px;
+    }
+
+}
+
+@media screen and (max-width: 374px) {
+    .topbarLeft ul li a {
+        font-size: 12px;
+    }
+
+    .list-inline > li {
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .buttonMain {
+        padding: 3px 25px;
+    }
+
+    .banner .col-xs-9 {
+        width: 100%;
+    }
+
+    .banner {
+        background-position-x: 58%;
+    }
+
+    .banner h1 {
+        font-size: 25px;
+    }
+
+    .banner h5 {
+        font-size: 14px;
+    }
+
+    .blogImage::after {
+        height: 265px;
+    }
+
+    .blogText h4 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    .testimonialMain h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .testimonialMain p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .testimonialMain .imageHolder {
+        width: 42%;
+    }
+
+    .ctaDet h3 {
+        font-size: 28px;
+    }
+
+    .ctaDet h5 {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+
+    footer {
+        padding: 50px 0;
+    }
+
+    footer .col-xs-6 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .footerLastArea h3, .quickLinks h3 {
+        font-size: 22px;
+        margin: 20px 0;
+    }
+
+    .footerLastAreaImages h4 {
+        font-size: 14px;
+    }
+
+    .footerLastArea h3, .quickLinks h3 {
+        font-size: 22px;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .priceRight {
+        padding-right: 20px;
+    }
+
+    .panel-heading a:before {
+        right: 6px;
+    }
+
+    .serviceInner h3 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .serviceInner h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .recentBlogImg img {
+        width: 172%;
+    }
+
+    .packageThumbnail h5 {
+        width: 50%;
+    }
+
+    .aboutCenter .imageHolder {
+        width: 61%;
+        /*width: 68%;*/
+    }
+
+    .modalLeft .imageHolder {
+        width: 80%;
+    }
+
+    .modal-dialog {
+        width: 93%;
+    }
+
+    .membershipBox {
+        width: 100%;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 106px !important;
+    }
+
+    .testimonialInner {
+        height: 390px;
+        /*height: 375px;*/
+    }
+
+    .list-inline > li {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .packageThumbnail h5 {
+        width: 108%;
+    }
+
+    .testimonialMain .imageHolder {
+        height: 95px !important;
+    }
+}
+
+@media screen and (max-width: 361px) {
+    .testimonialMain .imageHolder {
+        height: 106px !important;
+    }
+
+    .testimonialInner {
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .testimonialMain .imageHolder {
+        height: 86px !important;
+    }
+
+    .testimonialInner {
+        height: 385px;
+    }
+    .serviceBoxDet h3 {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .priceRight {
+        font-size: 13px;
+    }
+    .panel-title > a, .panel-title > a:active {
+        font-size: 13px;
+    }
+    #testimonails .owl-next, #testimonails .owl-prev {
+        margin-top: -270px;
+    }
+}
